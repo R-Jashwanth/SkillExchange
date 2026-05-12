@@ -1,0 +1,84 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Skill Exchange</string>
+    <string name="tagline">Barter Skills. Build Community.</string>
+
+    <!-- Auth Screens -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="select_skill">Select Your Skill</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profile</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="history">History</string>
+    <string name="notifications">Notifications</string>
+
+    <!-- Dashboard Header -->
+    <string name="discover_needs">Discover Needs</string>
+    <string name="help_others_earn_points">Help others, earn points</string>
+
+    <!-- Actions -->
+    <string name="create_post">Create Post</string>
+
+    <!-- Filter Categories -->
+    <string name="filter_all">All Skills</string>
+    <string name="filter_plumbing">Plumbing</string>
+    <string name="filter_electrical">Electrical</string>
+    <string name="filter_carpentry">Carpentry</string>
+    <string name="filter_masonry">Masonry</string>
+    <string name="filter_painting">Painting</string>
+    <string name="filter_welding">Welding</string>
+    <string name="filter_tiling">Tiling</string>
+    <string name="filter_roofing">Roofing</string>
+    <string name="filter_interior_design">Interior Design</string>
+    <string name="filter_furniture_repair">Furniture Repair</string>
+    <string name="filter_car_mechanic">Car Mechanic</string>
+    <string name="filter_construction_work">Construction Work</string>
+    <string name="filter_water_tank_cleaning">Water Tank Cleaning</string>
+    <string name="filter_all_skills">All Skills</string>
+    <string name="my_profile">My Profile</string>
+    <string name="trust_score">Trust Score</string>
+    <string name="skill_points">Skill Points</string>
+    <string name="activity_history">Activity History</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="back">Back</string>
+    <string name="avatar_placeholder">?</string>
+        <string name="logo_description">Logo</string>
+        <string name="welcome_back">Welcome Back</string>
+        <string name="sign_in_subtitle">Sign in to continue your journey</string>
+        <string name="email_or_phone">Email or Phone</string>
+        <string name="new_here">New here? Create account</string>
+    <string name="loading_placeholder">Loading</string>
+    <string name="default_count">0</string>
+    <string name="default_trust_score">0</string>
+    <string name="default_post_count">0</string>
+    <!-- Add these entries to your res/values/strings.xml -->
+
+    <string name="back_button_description">Go back</string>
+    <string name="skill_label_placeholder">Skill</string>
+    <string name="dot_separator"> · </string>
+    <string name="trade_label">TRADE</string>
+    <string name="about_request_label">About this request</string>
+    <string name="community_trust_title">Community Trust</string>
+    <string name="community_trust_description">Trade hours instead of currency. Your skill points represent your contribution to the community.</string>
+    <string name="offer_swap_trade">Offer Swap Trade</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="mark_completed">Mark Completed</string>
+    <string name="messages_title">Messages</string>
+    <string name="swaps_done_label">Swaps Done</string>
+    <string name="accept_swap">Accept Swap</string>
+    <string name="profile_label">Profile</string>
+    <string name="swaps_done">Swaps Done</string>
+
+
+</resources>
