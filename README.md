@@ -21,8 +21,8 @@ A peer-to-peer skill-sharing Android app where users can post service requests, 
 
 <img width="307" height="562" alt="image" src="https://github.com/user-attachments/assets/1f0385c2-fc2a-475c-a32c-97d717f0c0f2" />
 
-<img width="246" height="499" alt="image" src="https://github.com/user-attachments/assets/e0b72676-e833-4137-a66d-1298df0b2ed9" />
-<img width="246" height="499" alt="image" src="https://github.com/user-attachments/assets/7b9f030c-e0f1-4c6b-bd25-4e3de27c1e86" />
+<img width="307" height="562" alt="image" src="https://github.com/user-attachments/assets/e0b72676-e833-4137-a66d-1298df0b2ed9" />
+<img width="307" height="562" alt="image" src="https://github.com/user-attachments/assets/7b9f030c-e0f1-4c6b-bd25-4e3de27c1e86" />
 <img width="240" height="484" alt="image" src="https://github.com/user-attachments/assets/0d89128e-819b-4d17-8d42-d092cf8b4819" />
 <img width="303" height="547" alt="image" src="https://github.com/user-attachments/assets/67416405-d418-4932-bafc-abe7742b5208" />
 <img width="301" height="547" alt="image" src="https://github.com/user-attachments/assets/60f1ab9c-ecb5-4a39-8cc3-b4254ef6d802" />
