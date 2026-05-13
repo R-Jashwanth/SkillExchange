@@ -72,7 +72,7 @@ com.skillexchange/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SkillExchange.git
+   git clone https://github.com/R-Jashwanth/SkillExchange.git
    cd SkillExchange
    ```
 
