@@ -19,13 +19,14 @@ A peer-to-peer skill-sharing Android app where users can post service requests, 
 
 ## Screenshots
 
-<img width="307" height="562" alt="image" src="https://github.com/user-attachments/assets/150f8856-dcc1-4137-bb4e-940e451c2a93" />
-<img width="246" height="499" alt="image" src="https://github.com/user-attachments/assets/8b72b7a6-6f68-4e38-8639-5fca9eb5c0ee" />
-<img width="246" height="499" alt="image" src="https://github.com/user-attachments/assets/5a0b25e2-b6ee-4485-a3d6-ad79ffc128ab" />
-<img width="240" height="484" alt="image" src="https://github.com/user-attachments/assets/6bafd77a-327d-4282-85f5-1a2f91a15a6c" />
-<img width="303" height="547" alt="image" src="https://github.com/user-attachments/assets/7651c5ae-acce-40c9-be55-4cc151ad52ce" />
-<img width="302" height="547" alt="image" src="https://github.com/user-attachments/assets/259f4545-343a-469d-b6aa-448092645a20" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f0385c2-fc2a-475c-a32c-97d717f0c0f2" width="180"/>
+  <img src="https://github.com/user-attachments/assets/e0b72676-e833-4137-a66d-1298df0b2ed9" width="180"/>
+  <img src="https://github.com/user-attachments/assets/7b9f030c-e0f1-4c6b-bd25-4e3de27c1e86" width="180"/>
+  <img src="https://github.com/user-attachments/assets/0d89128e-819b-4d17-8d42-d092cf8b4819" width="180"/>
+  <img src="https://github.com/user-attachments/assets/67416405-d418-4932-bafc-abe7742b5208" width="180"/>
+  <img src="https://github.com/user-attachments/assets/60f1ab9c-ecb5-4a39-8cc3-b4254ef6d802" width="180"/>
+</p>
 
 ## Tech Stack
 
