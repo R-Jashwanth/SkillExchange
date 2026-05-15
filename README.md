@@ -24,7 +24,7 @@ A peer-to-peer skill-sharing Android app where users can post service requests, 
 <img width="246" height="499" alt="image" src="https://github.com/user-attachments/assets/5a0b25e2-b6ee-4485-a3d6-ad79ffc128ab" />
 <img width="240" height="484" alt="image" src="https://github.com/user-attachments/assets/6bafd77a-327d-4282-85f5-1a2f91a15a6c" />
 <img width="303" height="547" alt="image" src="https://github.com/user-attachments/assets/7651c5ae-acce-40c9-be55-4cc151ad52ce" />
-<img width="301" height="547" alt="image" src="https://github.com/user-attachments/assets/259f4545-343a-469d-b6aa-448092645a20" />
+<img width="302" height="547" alt="image" src="https://github.com/user-attachments/assets/259f4545-343a-469d-b6aa-448092645a20" />
 
 
 ## Tech Stack
